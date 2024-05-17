@@ -52,7 +52,7 @@ python3 PINN_Solver.py
 If you use these scripts in your research or project, please cite this repository. This helps others find and utilize this work.
 
 ```bibtex
-@misc{abhinav0207/Numerical_Solution_PDE,
+@misc{abhinav0207_Numerical_Solution_PDE,
   author = {Abhinav Jha},
   title = {Numerical Solution of PDE},
   year = {2024},
