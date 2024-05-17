@@ -47,6 +47,7 @@ python3 FEM_Poisson_Solver.py
 python3 FEM_CD_Solver.py
 # or
 python3 PINN_Solver.py
+```
 
 ## Citation
 
@@ -61,3 +62,4 @@ If you use these scripts in your research or project, please cite this repositor
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/abhinav0207/Numerical_Solution_PDE}},
 }
+```
