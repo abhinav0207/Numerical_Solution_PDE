@@ -10,8 +10,6 @@ Welcome to the **Numerical_Solution_PDE** repository. This repository contains P
   - [PINN_Solver.py](#pinn_solverpy)
 - [Usage](#usage)
 - [Citation](#citation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Implemented Programs
 
